@@ -1,0 +1,55 @@
+{
+  "analysis_replay": {
+    "corpus_families": 240,
+    "changed_families": 15,
+    "changed_worlds": 60,
+    "model_inference_repeated": false,
+    "bootstrap_replicates": 2000,
+    "held_out_designs": 4,
+    "security_records_replayed": 5760,
+    "query_selection_records_replayed": 480,
+    "candidate_only_records_replayed": 5760,
+    "controlled_utility_rankings_verified": 3840,
+    "scifact_rankings_verified": 1200,
+    "sensitivity_records_replayed": 31680,
+    "sensitivity_conditions_verified": 198
+  },
+  "inference_checks": {
+    "family": "month-12-v3-0",
+    "small_security_records": 96,
+    "base_security_records": 96,
+    "small_utility_records": 32,
+    "all_fields_match_original_observations_exactly": true,
+    "full_experiments_rerun": false
+  },
+  "environment": {
+    "python": "3.12.3",
+    "platform": "Linux x86_64",
+    "replay_dependencies": {
+      "matplotlib": "3.10.1",
+      "python-dateutil": "2.9.0.post0",
+      "six": "1.17.0",
+      "pyparsing": "3.3.3",
+      "pillow": "12.3.0",
+      "packaging": "26.3",
+      "numpy": "1.26.4",
+      "kiwisolver": "1.5.1",
+      "fonttools": "4.66.1",
+      "cycler": "0.12.1",
+      "contourpy": "1.3.3",
+      "pandas": "2.2.3",
+      "tzdata": "2026.5",
+      "pytz": "2026.5"
+    },
+    "isolation": "Separate environment containing only analysis dependencies copied from installed distributions.",
+    "fresh_network_installation_verified": false
+  },
+  "figure_2_render_inspected": true,
+  "portability": {
+    "separate_directory_execution": true,
+    "isolated_interpreter": true,
+    "original_project_file_access_blocked_except_installed_dependencies": true,
+    "package_symlinks": false,
+    "all_relocated_analysis_checks_passed": true
+  }
+}

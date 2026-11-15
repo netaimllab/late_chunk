@@ -1,0 +1,12 @@
+{
+  "wording": "context",
+  "development_macro_template_S_accuracy": {
+    "bare": 0.25,
+    "context": 0.9333333333333332
+  },
+  "selection_model": "small",
+  "selection_method": "L",
+  "test_results_used": false,
+  "tie_rule": "bare",
+  "queries_per_world": 4
+}

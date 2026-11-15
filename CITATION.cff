@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the accompanying article for the study and this package when reusing its materials."
+type: software
+title: "An Empirical Study of Restricted-Attribute Inference in Late-Chunked Retrieval: Reproducibility Materials"
+version: 1.0.0
+repository-code: "https://github.com/netaimllab/late_chunk"
+authors:
+  - family-names: "Lalfakzuala"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Mizoram"
+  - family-names: "Chhangte"
+    given-names: "Lalhruaizela"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Mizoram"

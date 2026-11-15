@@ -1,0 +1,8 @@
+-r requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+transformers==4.44.2
+tokenizers==0.19.1
+einops==0.8.2
+huggingface-hub==0.36.2
+safetensors==0.8.0

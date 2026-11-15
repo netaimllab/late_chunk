@@ -1,0 +1,108 @@
+{
+  "small": {
+    "profile": {
+      "model": {
+        "name": "jinaai/jina-embeddings-v2-small-en",
+        "revision": "44e7d1d6caec8c883c2d4b207588504d519788d0",
+        "code_revision": "f3ec4cf7de7e561007f27c9efc7148b0bd713f81",
+        "pooling": "content-only-wholly-contained-token-mean-l2-v2",
+        "device": "cpu",
+        "dtype": "float32",
+        "max_tokens": 1024,
+        "threads": 4,
+        "encoder_source_sha256": "f8c79f5b8c4b2ae4580f59bf6fbfe4b8f238286f1f3d124f4ffffe10f93c40ca",
+        "torch_version": "2.5.1+cpu",
+        "numpy_version": "1.26.4",
+        "os": "Linux",
+        "architecture": "x86_64",
+        "transformers_version": "4.44.2",
+        "tokenizers_version": "0.19.1"
+      },
+      "model_load_seconds": 1.424194709994481,
+      "uncached_encoder_calls": 12,
+      "cache_hits": 0,
+      "forward_seconds": 1.3562404319964116,
+      "cache_enabled": false
+    },
+    "measurements": [
+      {
+        "tokens_including_special": 128,
+        "seconds": [
+          0.011244515000726096,
+          0.010764820995973423,
+          0.010503736993996426
+        ]
+      },
+      {
+        "tokens_including_special": 512,
+        "seconds": [
+          0.06578667199937627,
+          0.08475212199846283,
+          0.08527435599535238
+        ]
+      },
+      {
+        "tokens_including_special": 1024,
+        "seconds": [
+          0.21525915899837855,
+          0.25505508900096174,
+          0.2346065610036021
+        ]
+      }
+    ],
+    "fresh_process_peak_rss_bytes": 5267349504
+  },
+  "base": {
+    "profile": {
+      "model": {
+        "name": "jinaai/jina-embeddings-v2-base-en",
+        "revision": "322d4d7e2f35e84137961a65af894fda0385eb7a",
+        "code_revision": "f3ec4cf7de7e561007f27c9efc7148b0bd713f81",
+        "pooling": "content-only-wholly-contained-token-mean-l2-v2",
+        "device": "cpu",
+        "dtype": "float32",
+        "max_tokens": 1024,
+        "threads": 4,
+        "encoder_source_sha256": "f8c79f5b8c4b2ae4580f59bf6fbfe4b8f238286f1f3d124f4ffffe10f93c40ca",
+        "torch_version": "2.5.1+cpu",
+        "numpy_version": "1.26.4",
+        "os": "Linux",
+        "architecture": "x86_64",
+        "transformers_version": "4.44.2",
+        "tokenizers_version": "0.19.1"
+      },
+      "model_load_seconds": 1.7625414939975599,
+      "uncached_encoder_calls": 12,
+      "cache_hits": 0,
+      "forward_seconds": 7.166563841994503,
+      "cache_enabled": false
+    },
+    "measurements": [
+      {
+        "tokens_including_special": 128,
+        "seconds": [
+          0.06216364199644886,
+          0.06124353199265897,
+          0.05971634700836148
+        ]
+      },
+      {
+        "tokens_including_special": 512,
+        "seconds": [
+          0.37224219299969263,
+          0.39191074899281375,
+          0.4230275359877851
+        ]
+      },
+      {
+        "tokens_including_special": 1024,
+        "seconds": [
+          1.379225333002978,
+          1.2515045960026328,
+          1.1867047080013435
+        ]
+      }
+    ],
+    "fresh_process_peak_rss_bytes": 7833743360
+  }
+}

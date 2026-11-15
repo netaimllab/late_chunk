@@ -1,0 +1,373 @@
+{
+  "affected_design": "design-15",
+  "affected_chunk": "p1",
+  "changed_families": 15,
+  "changed_worlds": 60,
+  "changes": [
+    {
+      "family_id": "city-15-v3-0",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "city-15-v3-0",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "city-15-v3-0",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "city-15-v3-0",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "city-15-v3-1",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "city-15-v3-1",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "city-15-v3-1",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "city-15-v3-1",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "city-15-v3-2",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "city-15-v3-2",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "city-15-v3-2",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "city-15-v3-2",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "city-15-v3-3",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "city-15-v3-3",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "city-15-v3-3",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "city-15-v3-3",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "city-15-v3-4",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "city-15-v3-4",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "city-15-v3-4",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "city-15-v3-4",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "topic-15-v3-0",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "topic-15-v3-0",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "topic-15-v3-0",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "topic-15-v3-0",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "topic-15-v3-1",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "topic-15-v3-1",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "topic-15-v3-1",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "topic-15-v3-1",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "topic-15-v3-2",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "topic-15-v3-2",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "topic-15-v3-2",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "topic-15-v3-2",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "topic-15-v3-3",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "topic-15-v3-3",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "topic-15-v3-3",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "topic-15-v3-3",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "topic-15-v3-4",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "topic-15-v3-4",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "topic-15-v3-4",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "topic-15-v3-4",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "month-15-v3-0",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "month-15-v3-0",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "month-15-v3-0",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "month-15-v3-0",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Monday.",
+      "new": "Registration for this workshop closes on Monday."
+    },
+    {
+      "family_id": "month-15-v3-1",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "month-15-v3-1",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "month-15-v3-1",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "month-15-v3-1",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Tuesday.",
+      "new": "Registration for this workshop closes on Tuesday."
+    },
+    {
+      "family_id": "month-15-v3-2",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "month-15-v3-2",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "month-15-v3-2",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "month-15-v3-2",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Wednesday.",
+      "new": "Registration for this workshop closes on Wednesday."
+    },
+    {
+      "family_id": "month-15-v3-3",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "month-15-v3-3",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "month-15-v3-3",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "month-15-v3-3",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Thursday.",
+      "new": "Registration for this workshop closes on Thursday."
+    },
+    {
+      "family_id": "month-15-v3-4",
+      "world_id": "w0",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "month-15-v3-4",
+      "world_id": "w1",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "month-15-v3-4",
+      "world_id": "w2",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    },
+    {
+      "family_id": "month-15-v3-4",
+      "world_id": "w3",
+      "old": "Its attendance list will be finalized on Friday.",
+      "new": "Registration for this workshop closes on Friday."
+    }
+  ],
+  "timing": "After development outcomes were known and before held-out prediction.",
+  "corpus_sha256": {
+    "original": "1517a4d0b6b5059c144f84e6010c50ce0d07eb5b4f611326e36462182121f304",
+    "corrected": "68148e6cd2cb6cd7c5de28abfb7f422b73faa70f81212a8846ddd984e8059c38"
+  }
+}

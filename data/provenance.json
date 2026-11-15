@@ -1,0 +1,78 @@
+{
+  "scientific_source_sha256": "4dab71d40d1f745969626a65b8523b07c8d827a79a8c5fd89eaa4c60671e6dec",
+  "observations": {
+    "security.jsonl.gz": {
+      "uncompressed_sha256": "44e835744514330837ccc9129f98fce0af52389f4572558bac0c4c058576b7bf",
+      "compressed_sha256": "c167ebc380321fb9209436098c058076a4f8c471bd5d3130f3b3314b015bb83f"
+    },
+    "candidate-only.jsonl.gz": {
+      "uncompressed_sha256": "a0fe8891c2df7dc56581b7d64bf22ff158f53e8c861e9a79a7d01e7148833a54",
+      "compressed_sha256": "19a72ae35262c454861ab290de3e058d460c0e658effaa3c73e2ac1d2f55f88f"
+    },
+    "query-selection.jsonl.gz": {
+      "uncompressed_sha256": "2e2ca09810940a8aa56fdd6e54280c11b8043edd7b96198ecf335ac9143563b8",
+      "compressed_sha256": "e1c891fc7f5443e9ef8729b77f648a9f1af43fbe7e8f46ab30fdeaa9cb739cf2"
+    },
+    "sensitivity.json.gz": {
+      "uncompressed_sha256": "77f5a78910ee846901cf2d2658768102bf45fa962dd55454e214d1a8170b67a1",
+      "compressed_sha256": "6e0578066988070893d62d77d54553d748d2e145315537cb019f4da82479bdac"
+    },
+    "controlled-utility.json.gz": {
+      "uncompressed_sha256": "e233a91cd1b718ab42bbbdd06271215555d6ffd4e305184e422e0abd8b9e9a1a",
+      "compressed_sha256": "02ef3e52327d12c85d32871d13ff76533ba34088a1c1f8785e4f4434a8155556"
+    },
+    "scifact.json.gz": {
+      "uncompressed_sha256": "d8061e4abada23bc1c2aa34827e651c8313e1e240acb3b91d6e51dd4ce18b584",
+      "compressed_sha256": "8270c33fa4754576c70650bf83cd0d0bd1e8e8dcf265675d570d4d0beeb9bac3"
+    },
+    "indexing-cost.json.gz": {
+      "uncompressed_sha256": "f5986c39c04969968b61a432f2f8ca3089564e241f39223ac647fbebc4f9ea13",
+      "compressed_sha256": "f34c006fd423b82dd608246f64aaf11776b7aacf790b4619e884165d6195c5d3"
+    }
+  },
+  "implementation": {
+    "chunkprivacy/attacks.py": {
+      "original_sha256": "1ce29452b78ac3834b6163a80fad856877c9e57f700bcf937bac3daeb007ad53",
+      "packaged_sha256": "56bacee0188a6d5b8cdef00faa8c4c49c9ed65117f47d7620d049b2c4e4540c0",
+      "adaptation": "Formatting only; executable syntax unchanged."
+    },
+    "chunkprivacy/encoders.py": {
+      "original_sha256": "f8c79f5b8c4b2ae4580f59bf6fbfe4b8f238286f1f3d124f4ffffe10f93c40ca",
+      "packaged_sha256": "d1b5504dd814b3fd8f481932f05599624b77ec8e90efc9b9ec2fb70239aeaf7f",
+      "adaptation": "Load the pinned repository snapshot by local path, including the model-internal tokenizer. Pooling, model weights, forward computation and search are unchanged. Standardized Python formatting."
+    },
+    "chunkprivacy/retrieval.py": {
+      "original_sha256": "a98640a278e499796daa9cc3d3d07b58869f9c4a201f99d6903c860ddea1918c",
+      "packaged_sha256": "5ab1b8b24ad171785afd4796879614e9c26572b3d6bbad21a5c38aa538e5b5ef",
+      "adaptation": "Formatting only; executable syntax unchanged."
+    },
+    "chunkprivacy/ablations.py": {
+      "original_sha256": "ae96dea8b37ca85bcf42a208f453c343779cada87a1f016a899a49d1ea0b08b7",
+      "packaged_sha256": "98f7eee843ef6d28ea69d61b19d94c62d3424ed8622bf0f461c007b4878c3177",
+      "adaptation": "Non-computational metadata and explanatory text; numerical procedures unchanged. Standardized Python formatting."
+    },
+    "chunkprivacy/utility.py": {
+      "original_sha256": "34f078d3b54d3d0f70d8c825ea4486ffbb72a7f0f70589f96baa35823094f431",
+      "packaged_sha256": "0df79ad6fc6e06b6f0dac461602a2123431f15bee2e89666d182b11bb21d0146",
+      "adaptation": "Explanatory comment only. Standardized Python formatting."
+    },
+    "chunkprivacy/evaluate.py": {
+      "original_sha256": "5bea4052f00ffedb2e8ae68eb6a89d6a0259630f0d1197f778706f500e7e8244",
+      "packaged_sha256": "ee1bc08117daa60531b284f5988baf034e0791766a1554eed0133abf0e96da0e",
+      "adaptation": "Non-computational metadata and explanatory text; numerical procedures unchanged. Standardized Python formatting."
+    },
+    "chunkprivacy/data.py": {
+      "original_sha256": "1454f5e001c897133c6ad768507a101d89abaf5e77144c33fef43b0b320b8a1d",
+      "packaged_sha256": "99c4996b44d97f3dba6c0b7a34ad96918b312df469fd85de90ab65722ffbb643",
+      "adaptation": "Non-computational metadata and explanatory text; numerical procedures unchanged. Standardized Python formatting."
+    },
+    "researchkit/io.py": {
+      "original_sha256": "7c168ad33882a272d9c51ea3b0a64e58fbaddbfb95578b9d97c7e5e7c188dad1",
+      "packaged_sha256": "37fb0cec006727776a181c169f3b13b4da004b48296b1efc96218a080e3396ed",
+      "adaptation": "Downloader User-Agent identifies the package. Serialization, checksums and acquisition checks are unchanged. Standardized Python formatting."
+    }
+  },
+  "corpus_metadata": "Original and corrected text, identifiers, permissions, labels, queries and split assignments are retained.",
+  "independent_human_semantic_review": false,
+  "external_preregistration": false
+}

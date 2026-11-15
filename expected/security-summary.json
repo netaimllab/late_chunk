@@ -1,0 +1,1464 @@
+{
+  "results": {
+    "base/A/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/A/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.8166666666666667,
+      "target_absence_query_rate": 0.17916666666666667,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/A/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.05,
+      "target_absence_query_rate": 0.17916666666666667,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/E/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/E/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 1.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/E/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/L/O": {
+      "accuracy": {
+        "estimate": 0.9708333333333333,
+        "ci95": [
+          0.9458333333333332,
+          0.9958333333333333
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 1.0,
+        "month": 0.9125,
+        "topic": 1.0
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 1.0,
+        "city-14-v3": 1.0,
+        "city-15-v3": 1.0,
+        "month-12-v3": 0.95,
+        "month-13-v3": 0.85,
+        "month-14-v3": 1.0,
+        "month-15-v3": 0.85,
+        "topic-12-v3": 1.0,
+        "topic-13-v3": 1.0,
+        "topic-14-v3": 1.0,
+        "topic-15-v3": 1.0
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.9125,
+        "ci95": [
+          0.8375,
+          0.9875
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/L/R": {
+      "accuracy": {
+        "estimate": 0.48333333333333334,
+        "ci95": [
+          0.3207291666666666,
+          0.7124999999999999
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.5375,
+        "month": 0.3,
+        "topic": 0.6125
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 0.35,
+        "city-14-v3": 0.4,
+        "city-15-v3": 0.4,
+        "month-12-v3": 0.45,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 1.0,
+        "topic-13-v3": 0.3,
+        "topic-14-v3": 0.55,
+        "topic-15-v3": 0.6
+      },
+      "tie_rate": 0.7791666666666667,
+      "target_absence_query_rate": 0.196875,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.3,
+        "ci95": [
+          0.25,
+          0.4125
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/L/S": {
+      "accuracy": {
+        "estimate": 0.9708333333333333,
+        "ci95": [
+          0.9458333333333332,
+          0.9958333333333333
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 1.0,
+        "month": 0.9125,
+        "topic": 1.0
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 1.0,
+        "city-14-v3": 1.0,
+        "city-15-v3": 1.0,
+        "month-12-v3": 0.95,
+        "month-13-v3": 0.85,
+        "month-14-v3": 1.0,
+        "month-15-v3": 0.85,
+        "topic-12-v3": 1.0,
+        "topic-13-v3": 1.0,
+        "topic-14-v3": 1.0,
+        "topic-15-v3": 1.0
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.196875,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.9125,
+        "ci95": [
+          0.8375,
+          0.9875
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/P/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/P/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 1.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "base/P/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/A/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/A/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.7833333333333333,
+      "target_absence_query_rate": 0.4666666666666667,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/A/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.3,
+      "target_absence_query_rate": 0.4666666666666667,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/E/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/E/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 1.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/E/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/L/O": {
+      "accuracy": {
+        "estimate": 0.9249999999999999,
+        "ci95": [
+          0.8500000000000001,
+          0.9916666666666667
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 1.0,
+        "month": 0.7749999999999999,
+        "topic": 1.0
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 1.0,
+        "city-14-v3": 1.0,
+        "city-15-v3": 1.0,
+        "month-12-v3": 1.0,
+        "month-13-v3": 0.45,
+        "month-14-v3": 0.95,
+        "month-15-v3": 0.7,
+        "topic-12-v3": 1.0,
+        "topic-13-v3": 1.0,
+        "topic-14-v3": 1.0,
+        "topic-15-v3": 1.0
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.7749999999999999,
+        "ci95": [
+          0.55,
+          0.9750000000000001
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/L/R": {
+      "accuracy": {
+        "estimate": 0.6208333333333332,
+        "ci95": [
+          0.5291666666666667,
+          0.7125
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.7,
+        "month": 0.25,
+        "topic": 0.9125
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 0.9,
+        "city-14-v3": 0.35,
+        "city-15-v3": 0.55,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.85,
+        "topic-13-v3": 1.0,
+        "topic-14-v3": 0.95,
+        "topic-15-v3": 0.85
+      },
+      "tie_rate": 0.5583333333333333,
+      "target_absence_query_rate": 0.35833333333333334,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/L/S": {
+      "accuracy": {
+        "estimate": 0.9125,
+        "ci95": [
+          0.8458333333333334,
+          0.9749999999999999
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 1.0,
+        "month": 0.7749999999999999,
+        "topic": 0.9625
+      },
+      "per_template": {
+        "city-12-v3": 1.0,
+        "city-13-v3": 1.0,
+        "city-14-v3": 1.0,
+        "city-15-v3": 1.0,
+        "month-12-v3": 1.0,
+        "month-13-v3": 0.45,
+        "month-14-v3": 0.95,
+        "month-15-v3": 0.7,
+        "topic-12-v3": 0.85,
+        "topic-13-v3": 1.0,
+        "topic-14-v3": 1.0,
+        "topic-15-v3": 1.0
+      },
+      "tie_rate": 0.016666666666666666,
+      "target_absence_query_rate": 0.35833333333333334,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.7749999999999999,
+        "ci95": [
+          0.55,
+          0.9750000000000001
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/P/O": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": true,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/P/R": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 1.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    },
+    "small/P/S": {
+      "accuracy": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 12,
+        "families": 60,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      },
+      "per_type": {
+        "city": 0.25,
+        "month": 0.25,
+        "topic": 0.25
+      },
+      "per_template": {
+        "city-12-v3": 0.25,
+        "city-13-v3": 0.25,
+        "city-14-v3": 0.25,
+        "city-15-v3": 0.25,
+        "month-12-v3": 0.25,
+        "month-13-v3": 0.25,
+        "month-14-v3": 0.25,
+        "month-15-v3": 0.25,
+        "topic-12-v3": 0.25,
+        "topic-13-v3": 0.25,
+        "topic-14-v3": 0.25,
+        "topic-15-v3": 0.25
+      },
+      "tie_rate": 0.0,
+      "target_absence_query_rate": 0.0,
+      "diagnostic_only": false,
+      "worlds": 240,
+      "same_token_length_subset": {
+        "estimate": 0.25,
+        "ci95": [
+          0.25,
+          0.25
+        ],
+        "replicates": 2000,
+        "templates": 4,
+        "families": 20,
+        "structural_designs": 4,
+        "unit": "structural design then public instance; paired attribute types and worlds stay together",
+        "limited_independent_designs": true
+      }
+    }
+  },
+  "paired_accuracy_differences": {
+    "base/E-L/O": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/P-L/O": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/A-L/O": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/E-L/R": {
+      "estimate": -0.23333333333333328,
+      "ci95": [
+        -0.46249999999999997,
+        -0.07072916666666723
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/P-L/R": {
+      "estimate": -0.23333333333333328,
+      "ci95": [
+        -0.46249999999999997,
+        -0.07072916666666723
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/A-L/R": {
+      "estimate": -0.23333333333333328,
+      "ci95": [
+        -0.46249999999999997,
+        -0.07072916666666723
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/E-L/S": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/P-L/S": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "base/A-L/S": {
+      "estimate": -0.7208333333333333,
+      "ci95": [
+        -0.7458333333333333,
+        -0.6958333333333333
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/E-L/O": {
+      "estimate": -0.6749999999999999,
+      "ci95": [
+        -0.7416666666666667,
+        -0.6000000000000001
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/P-L/O": {
+      "estimate": -0.6749999999999999,
+      "ci95": [
+        -0.7416666666666667,
+        -0.6000000000000001
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/A-L/O": {
+      "estimate": -0.6749999999999999,
+      "ci95": [
+        -0.7416666666666667,
+        -0.6000000000000001
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/E-L/R": {
+      "estimate": -0.3708333333333333,
+      "ci95": [
+        -0.4625,
+        -0.2791666666666667
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/P-L/R": {
+      "estimate": -0.3708333333333333,
+      "ci95": [
+        -0.4625,
+        -0.2791666666666667
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/A-L/R": {
+      "estimate": -0.3708333333333333,
+      "ci95": [
+        -0.4625,
+        -0.2791666666666667
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/E-L/S": {
+      "estimate": -0.6625,
+      "ci95": [
+        -0.725,
+        -0.5958333333333334
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/P-L/S": {
+      "estimate": -0.6625,
+      "ci95": [
+        -0.725,
+        -0.5958333333333334
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    },
+    "small/A-L/S": {
+      "estimate": -0.6625,
+      "ci95": [
+        -0.725,
+        -0.5958333333333334
+      ],
+      "replicates": 2000,
+      "templates": 12,
+      "families": 60,
+      "structural_designs": 4,
+      "unit": "structural design then public instance; paired attribute types and worlds stay together",
+      "limited_independent_designs": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "seed": 20261010,
+  "models": [
+    "small",
+    "base"
+  ],
+  "methods": [
+    "E",
+    "L",
+    "P",
+    "A"
+  ],
+  "tiers": [
+    "S",
+    "R",
+    "O"
+  ],
+  "max_tokens": 1024,
+  "threads": 4,
+  "templates_per_type": 16,
+  "families_per_template": 5,
+  "distractors": 200,
+  "top_k": 10,
+  "bootstrap_repetitions": 2000,
+  "retrieval_threads": 24
+}
