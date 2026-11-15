@@ -1,3 +1,9 @@
+# SciFact third-party licence notice
+
+This notice applies only to the SciFact annotations supplied as `scifact-qrels.tsv`. It reproduces the [upstream SciFact licence](https://github.com/allenai/scifact/blob/master/LICENSE.md); references to "this repository" below mean `allenai/scifact`. It does not license the code, synthetic data or documentation in this reproducibility package.
+
+---
+
 # License
 
 ## Claims

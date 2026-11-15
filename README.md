@@ -93,4 +93,4 @@ Descriptive 95% intervals use 2,000 paired resamples of structural designs and p
 
 ## Licensing
 
-No license is currently assigned to the authors' code, synthetic data or documentation. Included SciFact judgments retain their attribution and license in `SCIFACT-LICENSE.md`. Model checkpoints and the SciFact document corpus are obtained separately under their upstream terms.
+No license is currently assigned to the authors' code, synthetic data or documentation. Included SciFact judgments retain their attribution and license in [data/SCIFACT-LICENSE.md](data/SCIFACT-LICENSE.md). Model checkpoints and the SciFact document corpus are obtained separately under their upstream terms.
